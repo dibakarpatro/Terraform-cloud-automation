@@ -8,4 +8,4 @@ resource "aws_instance" "dev" {
 }
 output "aws_instance" {
   value = aws_instance.dev.public_ip
-}
+} #here i'm installing jenkins prerequisites using my test.sh file and calling here using task of userdata
