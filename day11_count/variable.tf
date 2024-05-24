@@ -1,4 +1,4 @@
 variable "sandbox" {
     type = list(string)
-    default = [ "dibakar","prabhakar" ] 
+    default = [ "jagannath","balavadra","subhadra" ] 
 }

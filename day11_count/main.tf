@@ -9,3 +9,12 @@ resource "aws_instance" "dev" {
 
     }
 }
+# jagannath i-019efd6d9e9fe012c
+# balavdra i-0836b4ad6a546af21
+# subhadra i-034c9b8090ab59174 
+
+#suppose we are deleting the balavdra then the subhadra instance is going to delete and with the balabhadra id subhadra name is going to replce
+# 1 change and 1 destroy
+
+#jagannth i-019efd6d9e9fe012c
+#subhadra i-0836b4ad6a546af21
