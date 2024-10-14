@@ -76,7 +76,7 @@ This repository contains multiple practice projects and Terraform configuration 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/dibakarpatro/devops-project-1.git
+   git clone https://github.com/dibakarpatro/Terraform-cloud-automation.git
    ```
 2. **Navigate to the directory** of the day/topic you want to practice:
    ```bash
